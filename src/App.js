@@ -1,12 +1,6 @@
 import React from 'react';
-import Root from './COMPONENTS/PAGES/Root';
-
 function App() {
-    return (
-        <div>
-            <Root />
-        </div>
-    );
+    return <div>App</div>;
 }
 
 export default App;
